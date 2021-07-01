@@ -7429,7 +7429,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #0892d0 !important;
+  background-color: #2196f3 !important;
 }
 
 .bg-secondary {
@@ -10955,13 +10955,13 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #0892d0;
+  color: #2196f3;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #0892d0;
+  color: #2196f3;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10983,11 +10983,11 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #0892d0;
+    background: #2196f3;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #0892d0;
+    background: #2196f3;
   }
 
   #mainNav.navbar-shrink {
